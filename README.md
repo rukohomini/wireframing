@@ -50,3 +50,60 @@ These elements show how the user will interact with the interface.
 
 **Thank you for reading!**
 Wireframing is an essential part of the design process that ensures clarity, usability, and smooth collaboration before development begins.
+
+
+
+
+
+### Types of Wireframes
+
+Wireframes can vary in complexity and purpose, depending on the stage of the design process. The two main types are **Low-Fidelity** and **High-Fidelity** wireframes.
+
+### 1. **Low-Fidelity Wireframes**
+Low-fidelity (lo-fi) wireframes are simple sketches or rough outlines that show basic layouts and structure without focusing on colors, fonts, or detailed elements.
+
+**Characteristics:**
+- Usually drawn by hand or with simple tools like Balsamiq or Figma wireframe mode.  
+- Contain placeholder boxes and simple text labels.  
+- Focus on layout and functionality only.  
+- Fast to create and easy to adjust.  
+
+**When to Use:**  
+- Early in the design process.  
+- When brainstorming or testing basic concepts.  
+- To get quick feedback from team members or clients.
+
+---
+
+### 2. **High-Fidelity Wireframes**
+High-fidelity (hi-fi) wireframes are more detailed and closely resemble the final product. They include accurate spacing, real text, and sometimes color or interactivity.
+
+**Characteristics:**
+- Created with tools like Figma, Adobe XD, or Sketch.  
+- Include actual content, buttons, icons, and navigation flow.  
+- Provide a realistic view of how the interface will look and function.  
+
+**When to Use:**  
+- Later in the design process, after feedback on low-fidelity wireframes.  
+- Before moving to prototyping or final UI design.
+
+---
+
+## Type of Wireframe Used in This Project
+The wireframe used in this project is a **Low-Fidelity Wireframe**.  
+It focuses on the **basic structure and layout** of the booking management system, showing the placement of key elements such as navigation menus, content sections, and buttons — without adding detailed visuals, colors, or typography.  
+
+This allows for easier adjustments and discussions during the early stages of design.
+
+---
+
+**Thank you for reading!**  
+Wireframing helps transform ideas into visual structures that guide the entire design and development process.
+
+
+
+
+
+
+
+
