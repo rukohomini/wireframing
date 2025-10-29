@@ -104,6 +104,53 @@ Wireframing helps transform ideas into visual structures that guide the entire d
 
 
 
+## Popular Wireframing Tools
+
+There are several tools available to help designers and developers create effective wireframes. Each tool offers different features, levels of detail, and collaboration options. Below are some of the most popular ones:
+
+### 1. **Figma**
+**Figma** is one of the most widely used wireframing and design tools because it runs directly in a web browser and allows for real-time collaboration.  
+It enables multiple users to work together on the same project, making it ideal for teams.
+
+**Key Features:**
+- **Cloud-based collaboration:** Multiple users can edit and comment simultaneously.
+- **Prebuilt UI components:** Speeds up wireframe creation using reusable elements.
+- **Prototyping tools:** Lets you link frames and create interactive flows.
+- **Version history:** Tracks design changes and restores earlier versions easily.
+- **Cross-platform:** Works seamlessly on Windows, macOS, and Linux through the browser.
+
+**Why Figma is Useful for Wireframing:**
+Figma makes it easy to visualize user journeys and layouts without needing to install complex software.  
+It supports both **low-fidelity** and **high-fidelity** wireframes and is beginner-friendly while still powerful for advanced designers.
+
+---
+
+### 2. **Balsamiq**
+A quick and simple tool focused on low-fidelity wireframes.  
+It uses sketch-like visuals that help teams focus on functionality instead of design aesthetics.
+
+### 3. **Adobe XD**
+A more advanced design tool for creating high-fidelity wireframes and interactive prototypes.  
+It integrates well with other Adobe tools, making it suitable for professional design workflows.
+
+### 4. **Sketch**
+A macOS-based design tool known for its precision and vector-based editing.  
+Ideal for designers who want control over every pixel of their interface design.
+
+### 5. **Draw.io (diagrams.net)**
+A free, browser-based tool great for creating flowcharts, simple wireframes, and diagrams without needing to sign up.
+
+---
+
+### Recommended Tool for This Project
+For this project, **Figma** is the recommended tool because it provides the best balance between **ease of use**, **collaboration**, and **visual accuracy**.  
+It allows you to create clean, structured wireframes quickly and share them easily for feedback during the requirement analysis and design stages.
+
+
+
+
+
+
 
 
 
